@@ -1,0 +1,29 @@
+{
+  "name": "susd-page-parser",
+  "version": "1.0.0",
+  "description": "Turn the HTML from Shut Up And Sit Down's website into a data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/susd-page-parser.git"
+  },
+  "keywords": [
+    "su&sd",
+    "shut",
+    "up",
+    "and",
+    "sit",
+    "down",
+    "html",
+    "tabletop"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/susd-page-parser/issues"
+  },
+  "homepage": "https://github.com/TehShrike/susd-page-parser#readme"
+}
