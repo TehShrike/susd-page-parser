@@ -1,6 +1,6 @@
 # susd-page-parser
 
-A function which, given the html from the games/videos pages at shutupandsitdown.com, spits out a data structure.
+A function which, given the html from the [games](https://www.shutupandsitdown.com/games-page/)/[videos](https://www.shutupandsitdown.com/videos-page/) pages at shutupandsitdown.com, spits out a data structure.
 
 Example output:
 
